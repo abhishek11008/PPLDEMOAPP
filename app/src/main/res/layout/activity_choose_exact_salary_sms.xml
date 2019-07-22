@@ -9,7 +9,7 @@
         android:layout_height="96dp"
         android:gravity="bottom"
         android:layout_centerHorizontal="true"
-
+        android:padding="@dimen/Eight"
         android:orientation="vertical"
         android:background="@color/white"
         android:elevation="4dp">
@@ -20,6 +20,7 @@
             android:layout_marginLeft="8dp"
             android:text="Select your exact salary sms"
             android:textSize="@dimen/Eighteen"
+            android:textStyle="bold"
             android:textColor="@color/colorPrimaryDark"/>
 
 
@@ -40,18 +41,14 @@
             <TextView
                 android:id="@+id/bankName"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:text="Bank Name"
+                android:layout_marginTop="@dimen/Eight"
                 android:textSize="@dimen/Sixteen"
                 android:textColor="@color/black"/>
-
         </LinearLayout>
 
-
-
     </LinearLayout>
-
-
 
 
     <android.support.v7.widget.RecyclerView

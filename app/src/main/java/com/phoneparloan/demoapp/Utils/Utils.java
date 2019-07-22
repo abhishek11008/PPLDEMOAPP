@@ -42,7 +42,7 @@ public class Utils {
     public static JSONArray callLogArray = new JSONArray();
     public static JSONArray contactListArray = new JSONArray();
     public static JSONArray appListArray = new JSONArray();
-    public static JSONArray deviceInfoArray = new JSONArray();
+    public static JSONObject deviceInfoArray = new JSONObject();
     public static JSONArray smsTransArray = new JSONArray();
     public static JSONArray smsCreditedArray = new JSONArray();
     public static JSONArray smsDebitedArray = new JSONArray();
@@ -206,6 +206,8 @@ public class Utils {
     public static String[] debit_keyword_array = {"txn of", "transaction of", "was spent", "withdrawn", "purchase", "purchase worth", "debit", "debit by transfer", "debited for", "debited", "debited with"};
     //public static String[] ecs_keyword_array = {"ecs", "insufficient fund", "maintain sufficient fund"};
     //public static String[] loan_keyword_array = {"loan", "loan emi", "loan due","emi paid","emi"};
+
+
 
 
     public void startLoanAppListWork(Activity context) {

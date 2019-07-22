@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class SmsParsedBankData {
     private String bankName="";
     private String bankImage = "";
+    private String salarySMS = "";
     private String LastBal ="";
     private String LastMsgDateTimeStamp ="";
     private ArrayList majorChunkTxnMessagesList = new ArrayList();
@@ -48,5 +49,13 @@ public class SmsParsedBankData {
 
     public void setMajorChunkTxnMessagesList(ArrayList majorChunkTxnMessagesList) {
         this.majorChunkTxnMessagesList = majorChunkTxnMessagesList;
+    }
+
+    public String getSalarySMS() {
+        return salarySMS;
+    }
+
+    public void setSalarySMS(String salarySMS) {
+        this.salarySMS = salarySMS;
     }
 }
