@@ -58,7 +58,6 @@ public class BankSeggregationActivity extends AppCompatActivity {
 
 
     public void init() {
-
         mRecyclerView = (RecyclerView) findViewById(R.id.rvBanks);
         linearLayoutManager = new LinearLayoutManager(mActivity);
         mRecyclerView.setLayoutManager(linearLayoutManager);
@@ -119,7 +118,8 @@ public class BankSeggregationActivity extends AppCompatActivity {
         parseTheJson();
 
         Log.d("abhi_sms_parsing", "Total_SMS_DATA_COUNT: " + Utils.smsArray.length());
-        getDataForBankSeggregation();
+        //getDataForBankSeggregation();
+        getAllTransactionalSMS();
         //Log.d("abhi_sms_parsing", "ALL_TXN_SMS_DATA Count: " + Utils.smsTransArray.length());
         //getCreditedTxnSMSData();
         //Log.d("abhi_sms_parsing", "ALL_CREDITED_TXN_SMS_DATA Count: " + Utils.smsCreditedArray.length());
@@ -142,7 +142,7 @@ public class BankSeggregationActivity extends AppCompatActivity {
     }
 
     private void getAllTransactionalSMS() {
-        if (Utils.smsArray != null && Utils.smsArray.length() > 0) {
+        if (Utils.smsArray.length() > 0) {
             JSONArray jsonArray = new JSONArray();
             for (int i = 0; i < Utils.senderId_keyword_array.length; i++) {
                 for (int j = 0; j < Utils.smsArray.length(); j++) {
@@ -155,6 +155,7 @@ public class BankSeggregationActivity extends AppCompatActivity {
                                 jsonObject.put("date_get", Utils.smsArray.getJSONObject(j).getString("date_get"));
                                 bankNameHashset.add(Utils.senderId_keyword_array[i]);
                                 Log.e("abhi_sms_parsing", "BankName Hashset :" + bankNameHashset.size());
+                                Log.e("abhi_sms_parsing", " :" + bankNameHashset.size());
                                 jsonArray.put(jsonObject);
                             } catch (JSONException e) {
                                 e.printStackTrace();
