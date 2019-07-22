@@ -63,7 +63,7 @@ public class ShowSalarySMSesActivity extends AppCompatActivity {
 
         parseSMSDataList();
 
-        rvSalarySmsRV.addOnItemTouchListener(new RecyclerItemClickListener(mActivity, rvSalarySmsRV, new RecyclerItemClickListener.OnItemClickListener() {
+        /*rvSalarySmsRV.addOnItemTouchListener(new RecyclerItemClickListener(mActivity, rvSalarySmsRV, new RecyclerItemClickListener.OnItemClickListener() {
             @Override
             public void onItemClick(View view, int position) {
                 Toast.makeText(mActivity, dataList.get(position).getBankName(), Toast.LENGTH_SHORT).show();
@@ -81,7 +81,7 @@ public class ShowSalarySMSesActivity extends AppCompatActivity {
             public void onItemLongClick(View view, int position) {
                 //bottomSheetDialogLayout(dataList.get(position).getCredit_id(),position);
             }
-        }));
+        }));*/
 
     }
 

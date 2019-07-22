@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -24,6 +25,7 @@ public class AdapterSalarySMSList extends RecyclerView.Adapter<AdapterSalarySMSL
     Context context;
     Activity activity;
     ArrayList<SmsParsedBankData> items;
+    boolean selected =false;
 
     public AdapterSalarySMSList(Context context, Activity activity, ArrayList<SmsParsedBankData> items){
         this.context = context;
@@ -38,9 +40,22 @@ public class AdapterSalarySMSList extends RecyclerView.Adapter<AdapterSalarySMSL
     }
 
     @Override
-    public void onBindViewHolder(ViewHolder holder, int pos) {
+    public void onBindViewHolder(final ViewHolder holder, int pos) {
         SmsParsedBankData data = getItem(pos);
         holder.salarySMSField.setText(data.getSalarySMS());
+
+        holder.mainLayout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(!selected) {
+                    holder.thirdField.setImageResource(R.drawable.ic_check_filled);
+                    selected=true;
+                }else{
+                    holder.thirdField.setImageResource(R.drawable.grey_circle);
+                    selected=false;
+                }
+            }
+        });
     }
 
     @Override
@@ -61,12 +76,16 @@ public class AdapterSalarySMSList extends RecyclerView.Adapter<AdapterSalarySMSL
 
         TextView dateField;
         TextView salarySMSField;
+        ImageView thirdField;
+        RelativeLayout mainLayout;
 
 
         public ViewHolder(View itemView) {
             super(itemView);
             dateField =  itemView.findViewById(R.id.dateField);
             salarySMSField =  itemView.findViewById(R.id.salarySMSField);
+            mainLayout = itemView.findViewById(R.id.mainLayout);
+            thirdField = itemView.findViewById(R.id.thirdField);
         }
     }
 }

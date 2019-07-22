@@ -47,6 +47,8 @@ public class AdapterBankList extends RecyclerView.Adapter<AdapterBankList.ViewHo
         .load(data.getBankImage())
         .into(holder.secondField);
         Log.d("abhi_check","getCrediterAmount->"+data.getBankImage());
+
+
     }
 
     @Override
@@ -67,7 +69,6 @@ public class AdapterBankList extends RecyclerView.Adapter<AdapterBankList.ViewHo
 
         TextView firstField;
         ImageView secondField;
-
 
         public ViewHolder(View itemView) {
             super(itemView);
