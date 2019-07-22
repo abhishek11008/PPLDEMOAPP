@@ -42,6 +42,7 @@ public class AdapterSalarySMSList extends RecyclerView.Adapter<AdapterSalarySMSL
     @Override
     public void onBindViewHolder(final ViewHolder holder, int pos) {
         SmsParsedBankData data = getItem(pos);
+
         holder.salarySMSField.setText(data.getSalarySMS());
 
         holder.mainLayout.setOnClickListener(new View.OnClickListener() {
@@ -56,6 +57,7 @@ public class AdapterSalarySMSList extends RecyclerView.Adapter<AdapterSalarySMSL
                 }
             }
         });
+
     }
 
     @Override
