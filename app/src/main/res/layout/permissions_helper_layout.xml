@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:layout_marginLeft="@dimen/Sixteen"
+    android:layout_marginRight="@dimen/Four"
+    android:layout_marginBottom="@dimen/Four"
+    android:padding="@dimen/Two">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/Four">
+
+            <ImageView
+                android:layout_width="@dimen/FourtyEight"
+                android:layout_height="@dimen/FourtyEight"
+                android:background="@drawable/grey_circle"/>
+
+            <ImageView
+                android:id="@+id/imageViewHolder"
+                android:layout_width="@dimen/FourtyEight"
+                android:layout_height="@dimen/FourtyEight"
+                android:padding="@dimen/Ten"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_baseline_textsms_24px" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/Sixteen"
+            android:layout_marginTop="@dimen/Four"
+            android:layout_marginBottom="@dimen/Four">
+
+            <TextView
+                android:id="@+id/titleViewHolder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="SMS Permission"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="@dimen/Eighteen"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/descriptionViewHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/titleViewHolder"
+
+                android:layout_marginRight="@dimen/TwentyFour"
+                android:paddingRight="@dimen/Four"
+                android:text="Collect and monitor specific information about your device including your hardware model, operating system and version, unique device identities like IMEI and serial number, user profile information, wi-fi information, and mobile networks information to uniquely identify the devices are not able to act on your behalf to prevent frauds." />
+
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="@dimen/HundreadTwentyEight"
+        android:layout_height="@dimen/HundreadTwentyEight"
+        android:src="@mipmap/icon_logo_ppl"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/text_med_emp"
+        android:visibility="gone"
+        android:textSize="@dimen/Eighteen" />
+
+</LinearLayout>

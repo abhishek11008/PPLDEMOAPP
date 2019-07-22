@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/Eight"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:paddingTop="@dimen/Two"
+  android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/dateField"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:textColor="@color/dark_grey"
+                android:layout_marginStart="@dimen/Eight"
+                android:paddingTop="@dimen/Four"
+                android:paddingBottom="@dimen/Four"
+                android:gravity="center"
+                android:textSize="@dimen/Twelve"
+                tools:text="July 13, 2019 1:05 pm" />
+
+            <LinearLayout
+                android:id="@+id/firstField"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_weight="2">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/Eight"
+                    android:layout_marginRight="@dimen/Eight"
+                    android:padding="@dimen/Eight"
+                    android:background="@drawable/round_corner"
+                    android:layout_weight="0.5">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/Eight"
+                        android:text="Rs. 49,566.00 is credited to your A/c XXXX8627  on 02-MAY-19 on account of Marriott Salary April 19"/>
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/thirdField"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_margin="@dimen/Eight"
+                    android:gravity="center"
+                    android:src="@drawable/grey_circle" />
+
+        </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

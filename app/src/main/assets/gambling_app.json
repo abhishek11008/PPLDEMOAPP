@@ -1,0 +1,2092 @@
+[
+  {
+    "id": 1,
+    "app_name": "Big Fish Games",
+    "package_id": "com.bigfishgames.gamesappAndroidGoogleFree"
+  },
+  {
+    "id": 2,
+    "app_name": "Big Fish Casino",
+    "package_id": "com.selfawaregames.acecasino"
+  },
+  {
+    "id": 3,
+    "app_name": "Indian Rummy (13 & 21 Cards) by Octro",
+    "package_id": "com.octro.rummy"
+  },
+  {
+    "id": 4,
+    "app_name": "Ultimate RummyCircle - Play Rummy",
+    "package_id": "com.games24x7.ultimaterummy.playstore"
+  },
+  {
+    "id": 5,
+    "app_name": "G4A: Indian Rummy",
+    "package_id": "org.games4all.android.games.indianrummy.prod"
+  },
+  {
+    "id": 6,
+    "app_name": "Gin Rummy",
+    "package_id": "com.tesseractmobile.ginrummy"
+  },
+  {
+    "id": 7,
+    "app_name": "Indian Rummy Comfun-13 Card Rummy Game Online",
+    "package_id": "com.comfun.mobile.rumm.asgp"
+  },
+  {
+    "id": 8,
+    "app_name": "Teen Patti Gold - With Poker & Rummy",
+    "package_id": "com.teenpatti.hd.gold"
+  },
+  {
+    "id": 9,
+    "app_name": "Gin Rummy",
+    "package_id": "com.tesseractmobile.ginrummy"
+  },
+  {
+    "id": 10,
+    "app_name": "Rummy",
+    "package_id": "com.games.india.rummy"
+  },
+  {
+    "id": 11,
+    "app_name": "Rummy - Free",
+    "package_id": "com.eryodsoft.android.cards.rummy.lite"
+  },
+  {
+    "id": 12,
+    "app_name": "Indian Rummy - Offline 13 Cards Rummy Game",
+    "package_id": "io.yarsa.games.indianrummy"
+  },
+  {
+    "id": 13,
+    "app_name": "Indian Rummy",
+    "package_id": "com.rummy.free"
+  },
+  {
+    "id": 14,
+    "app_name": "Rummy King – Free Online Card & Slots game",
+    "package_id": "com.wittygames.rummyking"
+  },
+  {
+    "id": 15,
+    "app_name": "Gin Rummy - Offline Free Card Games",
+    "package_id": "com.sngict.rummy.gin"
+  },
+  {
+    "id": 16,
+    "app_name": "Indian Rummy Offline - Free Rummy Card Games",
+    "package_id": "com.artoon.indianrummyoffline"
+  },
+  {
+    "id": 17,
+    "app_name": "KhelPlay Rummy – Indian Rummy",
+    "package_id": "com.khelplay.rummy"
+  },
+  {
+    "id": 18,
+    "app_name": "Indian Rummy Card Game Online - Junglee Rummy",
+    "package_id": "com.jungleegames.rummy"
+  },
+  {
+    "id": 19,
+    "app_name": "Rummy with Sunny Leone: Online Indian Rummy Games",
+    "package_id": "com.yoozoogames.rummygamesunnyleone"
+  },
+  {
+    "id": 20,
+    "app_name": "Rummy Online - Ultimate Rummy Circle",
+    "package_id": "com.teenpattiarena.supreme2017"
+  },
+  {
+    "id": 21,
+    "app_name": "Rummy",
+    "package_id": "com.indian.rummy"
+  },
+  {
+    "id": 22,
+    "app_name": "Rummy! (Card Rummikub and Indian Rummy)",
+    "package_id": "com.tobias.mexemexe"
+  },
+  {
+    "id": 23,
+    "app_name": "Rummy 13 Cards : Ace2Three",
+    "package_id": "air.com.ace2three.mobile"
+  },
+  {
+    "id": 24,
+    "app_name": "Rummy - free card game",
+    "package_id": "com.litegames.rummy_free__aat_google"
+  },
+  {
+    "id": 25,
+    "app_name": "Rummy",
+    "package_id": "com.oengines.indianrummy"
+  },
+  {
+    "id": 26,
+    "app_name": "Ultimate Indian Rummy",
+    "package_id": "com.trsquarelab.indianrummy"
+  },
+  {
+    "id": 27,
+    "app_name": "Rummy",
+    "package_id": "com.eryodsoft.android.cards.rummy.full"
+  },
+  {
+    "id": 28,
+    "app_name": "Royal Rummy",
+    "package_id": "com.nineyou.rummy"
+  },
+  {
+    "id": 29,
+    "app_name": "Indian Rummy",
+    "package_id": "com.artoon.indianrummy"
+  },
+  {
+    "id": 30,
+    "app_name": "Gin Rummy Free",
+    "package_id": "uk.co.aifactory.ginrummyfree"
+  },
+  {
+    "id": 31,
+    "app_name": "Teen Patti by Octro",
+    "package_id": "com.octro.teenpatti"
+  },
+  {
+    "id": 32,
+    "app_name": "Rummy Gold",
+    "package_id": "com.eastudios.rummygold"
+  },
+  {
+    "id": 33,
+    "app_name": "RummyVilla - Play Rummy Online",
+    "package_id": "com.vcommission.rummyvilla"
+  },
+  {
+    "id": 34,
+    "app_name": "Callbreak, Ludo, Rummy, 29 & Solitaire Card Games",
+    "package_id": "io.yarsa.games.cardgame"
+  },
+  {
+    "id": 35,
+    "app_name": "G4A: Gin Rummy",
+    "package_id": "org.games4all.android.games.ginrummy.prod"
+  },
+  {
+    "id": 36,
+    "app_name": "Aces® Gin Rummy Free",
+    "package_id": "com.concretesoftware.rummy"
+  },
+  {
+    "id": 37,
+    "app_name": "Gin Rummy",
+    "package_id": "uk.co.aifactory.ginrummy"
+  },
+  {
+    "id": 38,
+    "app_name": "Rummy",
+    "package_id": "free.indian.rummy"
+  },
+  {
+    "id": 39,
+    "app_name": "Indian Rummy Card Game App Free | Classic Rummy",
+    "package_id": "com.vindhyainfotech.classicrummyfree"
+  },
+  {
+    "id": 40,
+    "app_name": "Rummy : Best and Super",
+    "package_id": "com.crispygames.rummy"
+  },
+  {
+    "id": 41,
+    "app_name": "Grand Gin Rummy: Classic Gin Rummy card game",
+    "package_id": "com.gameduell.gin"
+  },
+  {
+    "id": 42,
+    "app_name": "Deccan Rummy Mobile",
+    "package_id": "com.deccan.rummy"
+  },
+  {
+    "id": 43,
+    "app_name": "Grand Gin Rummy 2: The classic Gin Rummy Card Game(Unreleased)",
+    "package_id": "com.gameduell.gin.rummy.card.game"
+  },
+  {
+    "id": 44,
+    "app_name": "Gnomy Rummy",
+    "package_id": "card.games.gnomy.rummy"
+  },
+  {
+    "id": 45,
+    "app_name": "Indian Rummy: Original Circle Rmi Indian Card Game",
+    "package_id": "com.indiancardgame.rummy"
+  },
+  {
+    "id": 46,
+    "app_name": "Rummy 500",
+    "package_id": "com.eastudios.rummy500"
+  },
+  {
+    "id": 47,
+    "app_name": "Indian Rummy",
+    "package_id": "com.eastudios.indianrummy"
+  },
+  {
+    "id": 48,
+    "app_name": "Rummy card game - 13 cards and 10 cards rummy",
+    "package_id": "io.yarsa.games.rummy"
+  },
+  {
+    "id": 49,
+    "app_name": "Free Rummy 500",
+    "package_id": "com.playcardgame.rummy"
+  },
+  {
+    "id": 50,
+    "app_name": "Gin Rummy Free",
+    "package_id": "cards.gin.rummy"
+  },
+  {
+    "id": 51,
+    "app_name": "Rummy-Real Rummy",
+    "package_id": "pokabunga.wyz.realrummy"
+  },
+  {
+    "id": 52,
+    "app_name": "Rummy Multiplayer",
+    "package_id": "com.CodeThisLab.RummyMultiplayer"
+  },
+  {
+    "id": 53,
+    "app_name": "Indian Rummy",
+    "package_id": "air.conectagames.indianrummy"
+  },
+  {
+    "id": 54,
+    "app_name": "Dream Guru™ - Dream11 Prediction & Tips",
+    "package_id": "kartiktech.dream11guru"
+  },
+  {
+    "id": 55,
+    "app_name": "Dream Team 11 Expert Prediction ,News,Tips,Teams.",
+    "package_id": "com.siyapredictionapp.sport"
+  },
+  {
+    "id": 56,
+    "app_name": "Dream Players",
+    "package_id": "com.playing11tips.newdream"
+  },
+  {
+    "id": 57,
+    "app_name": "Dream Team & Prediction for Dream11 by 11 app",
+    "package_id": "com.sports11app.team"
+  },
+  {
+    "id": 58,
+    "app_name": "DT 11 Grand League Teams-Cricket,Football,Nba",
+    "package_id": "com.fantasypro.grandleague"
+  },
+  {
+    "id": 59,
+    "app_name": "FanCode: Cricket World Cup Live Score, Sports News",
+    "package_id": "com.dream11sportsguru"
+  },
+  {
+    "id": 60,
+    "app_name": "Today Playing 11",
+    "package_id": "com.nileshvadalilya.todayplaying11"
+  },
+  {
+    "id": 61,
+    "app_name": "F11 - Fantasy Tips For Dream11, Cricket & Football",
+    "package_id": "com.khatkar.dream11protips"
+  },
+  {
+    "id": 62,
+    "app_name": "Possible11 - Dream11 Team Prediction Tips & News",
+    "package_id": "in.learningapps.possible11"
+  },
+  {
+    "id": 63,
+    "app_name": "Dream Team - Cricket Team Prediction for Cricket",
+    "package_id": "co.akshar.DreamTeam11"
+  },
+  {
+    "id": 64,
+    "app_name": "DreamTeam 11 : Expert Dream11 Team 100% Prediction",
+    "package_id": "com.expertdreamteam11"
+  },
+  {
+    "id": 65,
+    "app_name": "Perfect Playing11 - Dream11 Tips and Teams",
+    "package_id": "com.fantasy.perfect11"
+  },
+  {
+    "id": 66,
+    "app_name": "FanDuniya - Fantasy Tips for Dream11, World Cup",
+    "package_id": "com.dream11.fanduniya"
+  },
+  {
+    "id": 67,
+    "app_name": "Dream Team 11",
+    "package_id": "dreamteam.bala.com.dreamteam11"
+  },
+  {
+    "id": 68,
+    "app_name": "Dream 11 Prediction Tips & Teams",
+    "package_id": "com.ketanblogger.Dream_11_Prediction_Tips_Teams"
+  },
+  {
+    "id": 69,
+    "app_name": "FC11, Dream Team 11",
+    "package_id": "com.sportstenment.fc11"
+  },
+  {
+    "id": 70,
+    "app_name": "Fantasy Playing11 - Predictions for Dream11 Teams",
+    "package_id": "com.prediction.d11"
+  },
+  {
+    "id": 71,
+    "app_name": "Dream 11 Daily Pro Tips",
+    "package_id": "com.appswiz.dreamdailyprotipsigeic"
+  },
+  {
+    "id": 72,
+    "app_name": "D11 CricInformer ,IPL -Tips for dream11,Myteam11",
+    "package_id": "predictor.crick.informer"
+  },
+  {
+    "id": 73,
+    "app_name": "Dream Prediction - Dream11, Fantain Teams & Tips",
+    "package_id": "com.nacxo.darshansoni.team_prediction"
+  },
+  {
+    "id": 74,
+    "app_name": "Dream11Expert - Fantasy Cricket Tips and News",
+    "package_id": "in.dream11.expert.app"
+  },
+  {
+    "id": 75,
+    "app_name": "Fantasy Cricket News and Predictions",
+    "package_id": "com.app.fantasyapp"
+  },
+  {
+    "id": 76,
+    "app_name": "FD11 Dream11 FREE teams for small + grand leagues",
+    "package_id": "com.dream11nba.teams"
+  },
+  {
+    "id": 77,
+    "app_name": "Fantasy Sports Guru (Fantasy Tips for Dream11)",
+    "package_id": "com.dream11expertteams.fantasysportsexpert"
+  },
+  {
+    "id": 78,
+    "app_name": "M11 - MyTeam11 & Dream11 Teams, Tips & Giveaways",
+    "package_id": "com.myteam11.teams"
+  },
+  {
+    "id": 79,
+    "app_name": "PredictionXI | Dream 11 tips , fantasy tips ,",
+    "package_id": "in.cricketlife.prediction11"
+  },
+  {
+    "id": 80,
+    "app_name": "Safe 11 (MyTeam 11 & Dream11 Prediction -WC 2019 )",
+    "package_id": "io.makeroid.ak23961333.Safe"
+  },
+  {
+    "id": 81,
+    "app_name": "D11 My Guru Predictions / Tips",
+    "package_id": "com.mitraya.d11myguru"
+  },
+  {
+    "id": 82,
+    "app_name": "Fantasy King - Dream 11 Tips & Predictions",
+    "package_id": "io.kodular.sanjaymali7597.Fantasy_King"
+  },
+  {
+    "id": 83,
+    "app_name": "Dream11 Expret",
+    "package_id": "com.appswiz.dreamexprethhbdf"
+  },
+  {
+    "id": 84,
+    "app_name": "Cricket Predictor 11",
+    "package_id": "com.dream11predictor.dream11prodictor"
+  },
+  {
+    "id": 85,
+    "app_name": "Probable11",
+    "package_id": "com.probable11.probable11"
+  },
+  {
+    "id": 86,
+    "app_name": "MD11 - MyTeam11, Dream11 Prediction, Team, Tips",
+    "package_id": "com.newstar.md11"
+  },
+  {
+    "id": 87,
+    "app_name": "Cricket Pro - playing 11 prediction and stats app (Unreleased)",
+    "package_id": "com.pgk.cricketpro"
+  },
+  {
+    "id": 88,
+    "app_name": "Dream 11 prediction pro",
+    "package_id": "com.appswiz.dreampredictionproiahhf"
+  },
+  {
+    "id": 89,
+    "app_name": "Playing 11 - Dream11 Prediction Tips & News",
+    "package_id": "com.dream11expert.infinityteam.predictiontips"
+  },
+  {
+    "id": 90,
+    "app_name": "DreamTeamCric - Fantasy Cricket Tips",
+    "package_id": "com.dreamteamcric"
+  },
+  {
+    "id": 91,
+    "app_name": "DREAM 11 LEAGULE PRO TIPS",
+    "package_id": "com.appswiz.dreamleaguleprotipshiceg"
+  },
+  {
+    "id": 92,
+    "app_name": "CricTeam - Dream11 news tips, World Cup 2019",
+    "package_id": "cricket.cricteam.dream11_prediction_news_tips"
+  },
+  {
+    "id": 93,
+    "app_name": "Playing11 Team11 - Dream11 Prediction and Tips",
+    "package_id": "info.androidhive.playing11_team11app"
+  },
+  {
+    "id": 94,
+    "app_name": "D11 FanAdda-F11 Prime Team for Dream11 with Videos",
+    "package_id": "com.f11prime.world_cup_2019.teamdream11"
+  },
+  {
+    "id": 95,
+    "app_name": "Predicted 11- Teams for Dream11 Cricket & Football",
+    "package_id": "com.arshadul173.IPL2018"
+  },
+  {
+    "id": 96,
+    "app_name": "PickDreamTeam | Prediction & Playing11",
+    "package_id": "com.pickdreamteam.PickDreamTeam"
+  },
+  {
+    "id": 97,
+    "app_name": "Star Fantasy Sport (Dream 11 ,Halaplay ,My team11)",
+    "package_id": "com.anandsudrik75.starfantasy"
+  },
+  {
+    "id": 98,
+    "app_name": "Dream11 Team Preview",
+    "package_id": "com.dream11teampreview"
+  },
+  {
+    "id": 99,
+    "app_name": "CricTips - Dream 11 Fantasy Cricket Tips Informer",
+    "package_id": "com.cric.fantacy11"
+  },
+  {
+    "id": 100,
+    "app_name": "Dream11 Best Team Prediction Tips & Tricks",
+    "package_id": "fantasy.dream11.predictions"
+  },
+  {
+    "id": 101,
+    "app_name": "MyTeam Guru™ - MyTeam11 & Dream11 Tips",
+    "package_id": "kartiktech.myteam11guru"
+  },
+  {
+    "id": 102,
+    "app_name": "My11 Sport - Play Fantasy Cricket",
+    "package_id": "com.my11.sport"
+  },
+  {
+    "id": 103,
+    "app_name": "Dream 11 Private Contest",
+    "package_id": "com.goodsoft.blogreader.privatecontest"
+  },
+  {
+    "id": 104,
+    "app_name": "CricPlay -Free Fantasy Cricket Game. Win Real Cash",
+    "package_id": "com.cricplay"
+  },
+  {
+    "id": 105,
+    "app_name": "Grand 11-Ipl,Psl,Dream 11 Tips and Dream 11 Team",
+    "package_id": "com.fantasy.dream11.tips"
+  },
+  {
+    "id": 106,
+    "app_name": "Dream & My11 Teams Predication And Tips 2019",
+    "package_id": "com.mydreamteam.dreamteamprediction"
+  },
+  {
+    "id": 107,
+    "app_name": "Dream Team Predictions & Tips : World Cup 2019",
+    "package_id": "com.fantasyplaying11tips"
+  },
+  {
+    "id": 108,
+    "app_name": "FantainTeam 11 - Expert Fantain Prediction & News",
+    "package_id": "com.fantasyguru"
+  },
+  {
+    "id": 109,
+    "app_name": "Playing 11",
+    "package_id": "com.sakthi.playing11"
+  },
+  {
+    "id": 110,
+    "app_name": "Stack XI - Dream11 Predictions App",
+    "package_id": "com.stackxi.android"
+  },
+  {
+    "id": 111,
+    "app_name": "Raju Sir TipsGuru, Free Team Today, Live Score",
+    "package_id": "com.dream11tipsguru.com.guru"
+  },
+  {
+    "id": 112,
+    "app_name": "Champ11 - Dream11 Prediction & Tips,Teams,LiveScor",
+    "package_id": "com.qdeveloperapps.nandhu.prediction"
+  },
+  {
+    "id": 113,
+    "app_name": "GRAND LEAGUE TIPS-Bpl,Ipl,Psl,Dream 11 Tips & team",
+    "package_id": "com.mygrand.league11"
+  },
+  {
+    "id": 114,
+    "app_name": "Asan Dream11 Expert",
+    "package_id": "asan.crick.info"
+  },
+  {
+    "id": 115,
+    "app_name": "Roulette Royale - FREE Casino",
+    "package_id": "com.mw.rouletteroyale"
+  },
+  {
+    "id": 116,
+    "app_name": "Roulette Casino Vegas",
+    "package_id": "sk.inlogic.roulettepro.android"
+  },
+  {
+    "id": 117,
+    "app_name": "Casino Slots",
+    "package_id": "com.fruitsplay.casino"
+  },
+  {
+    "id": 118,
+    "app_name": "Huuuge Casino Slots - Play Free Slot Machines",
+    "package_id": "com.huuuge.casino.slots"
+  },
+  {
+    "id": 119,
+    "app_name": "Roulette - Casino Style!",
+    "package_id": "com.rnftechs.roulette.activities"
+  },
+  {
+    "id": 120,
+    "app_name": "Viva Slots Vegas™ Free Slot Jackpot Casino Games",
+    "package_id": "com.RocketGames.ClassicSlots"
+  },
+  {
+    "id": 121,
+    "app_name": "DoubleU Casino - Free Slots",
+    "package_id": "com.doubleugames.DoubleUCasino"
+  },
+  {
+    "id": 122,
+    "app_name": "Tycoon Casino™: Free Vegas Jackpot Slots",
+    "package_id": "com.tw.tycoon.casino"
+  },
+  {
+    "id": 123,
+    "app_name": "Casino roulette: Roulettist",
+    "package_id": "com.kamagames.roulettist"
+  },
+  {
+    "id": 124,
+    "app_name": "Roulette casino royale",
+    "package_id": "com.mggames.roulette"
+  },
+  {
+    "id": 125,
+    "app_name": "25-in-1 Casino",
+    "package_id": "com.tljtek.casino"
+  },
+  {
+    "id": 126,
+    "app_name": "Roulette Casino King™",
+    "package_id": "com.stardomgames.roulettecasinoking"
+  },
+  {
+    "id": 127,
+    "app_name": "Jackpot Party Casino: Slot Machines & Casino Games",
+    "package_id": "com.williamsinteractive.jackpotparty"
+  },
+  {
+    "id": 128,
+    "app_name": "NEW SLOTS 2019－free casino games & slot machines",
+    "package_id": "com.slotslot.slot"
+  },
+  {
+    "id": 129,
+    "app_name": "Full House Casino - Free Vegas Slots Casino Games",
+    "package_id": "com.memoriki.fullhousecasino"
+  },
+  {
+    "id": 130,
+    "app_name": "Roulette Casino Royale",
+    "package_id": "roulette.casino.royale.huge.slots.vegas.pro"
+  },
+  {
+    "id": 131,
+    "app_name": "Billionaire Casino™ Slots 777 - Free Vegas Games",
+    "package_id": "com.huuuge.casino.texas"
+  },
+  {
+    "id": 132,
+    "app_name": "Slots Casino - Jackpot Mania",
+    "package_id": "slots.hot.vegas.casino.games.free"
+  },
+  {
+    "id": 133,
+    "app_name": "Caesars Slots: Free Slot Machines and Casino Games",
+    "package_id": "com.playtika.caesarscasino"
+  },
+  {
+    "id": 134,
+    "app_name": "Golden Casino: Free Slot Machines & Casino Games",
+    "package_id": "com.slotslimited.goldencasino"
+  },
+  {
+    "id": 135,
+    "app_name": "Slot Machines: Wild Casino HD",
+    "package_id": "slot.machines.wild"
+  },
+  {
+    "id": 136,
+    "app_name": "Slotomania™ Slots Casino: Vegas Slot Machine Games",
+    "package_id": "air.com.playtika.slotomania"
+  },
+  {
+    "id": 137,
+    "app_name": "Casino Slots: House of Fun™️ Free 777 Vegas Games",
+    "package_id": "com.pacificinteractive.HouseOfFun"
+  },
+  {
+    "id": 138,
+    "app_name": "Roulette Casino",
+    "package_id": "com.roulette.casino.free"
+  },
+  {
+    "id": 139,
+    "app_name": "Roulette Casino FREE",
+    "package_id": "com.arcadegame.games.roulette.casino.free"
+  },
+  {
+    "id": 140,
+    "app_name": "DoubleDown Casino Slots Games, Blackjack, Roulette",
+    "package_id": "com.ddi"
+  },
+  {
+    "id": 141,
+    "app_name": "Casino Club - Danh Bai Online",
+    "package_id": "com.studio.kosmo.fortunes"
+  },
+  {
+    "id": 142,
+    "app_name": "World Casino King",
+    "package_id": "com.mobirix.casinoking"
+  },
+  {
+    "id": 143,
+    "app_name": "Vegas Jackpot Slots Casino - Free Slot Machines",
+    "package_id": "com.RocketGames.VegasJackpot"
+  },
+  {
+    "id": 144,
+    "app_name": "DAFU™ Casino",
+    "package_id": "com.grandegames.slots.dafu.casino"
+  },
+  {
+    "id": 145,
+    "app_name": "Casino Games - Slots",
+    "package_id": "com.gamelion.cleopatra"
+  },
+  {
+    "id": 146,
+    "app_name": "BlackJack -21 Casino Card Game",
+    "package_id": "com.phonato.card.game.blackjack"
+  },
+  {
+    "id": 147,
+    "app_name": "Royal Slots 2019: Free Slots Casino Games",
+    "package_id": "com.luckywin.tigerslots"
+  },
+  {
+    "id": 148,
+    "app_name": "Lucky Win Casino™- FREE SLOTS",
+    "package_id": "com.zentertain.bigcasino"
+  },
+  {
+    "id": 149,
+    "app_name": "Double Win Casino Slots - Free Vegas Casino Games",
+    "package_id": "com.huge.slots.casino.vegas.android.avidly"
+  },
+  {
+    "id": 150,
+    "app_name": "Online Casino - Vegas Slots Machines",
+    "package_id": "com.wild.classic.slots.vegas.casino.games"
+  },
+  {
+    "id": 151,
+    "app_name": "GSN Grand Casino – Play Free Slot Machines Online",
+    "package_id": "com.gsn.grandcasino"
+  },
+  {
+    "id": 152,
+    "app_name": "Gold Fortune Casino™ - Free Vegas Slots",
+    "package_id": "triwin.casino.slots.fortune.gold"
+  },
+  {
+    "id": 153,
+    "app_name": "Slots Free - Vegas Casino Slot Machines",
+    "package_id": "com.luckmob.freeslots"
+  },
+  {
+    "id": 154,
+    "app_name": "Slots Free - Big Win Casino",
+    "package_id": "com.fivestargames.slots"
+  },
+  {
+    "id": 155,
+    "app_name": "Slots Free: Las Vegas Slot Casino",
+    "package_id": "com.casino.werewolfslots"
+  },
+  {
+    "id": 156,
+    "app_name": "Slot Machines - Free Vegas Slots Casino",
+    "package_id": "com.linkdesks.slotking"
+  },
+  {
+    "id": 157,
+    "app_name": "Casino Frenzy - Free Slots",
+    "package_id": "com.rushmo.casinofrenzy"
+  },
+  {
+    "id": 158,
+    "app_name": "Slot Casino - Slot Machines",
+    "package_id": "com.play.slot"
+  },
+  {
+    "id": 159,
+    "app_name": "Double Win Vegas - FREE Slots and Casino",
+    "package_id": "ppl.unity.cubeslots"
+  },
+  {
+    "id": 160,
+    "app_name": "Lotsa Slots - Vegas Casino SLOTS Free with bonus",
+    "package_id": "com.diamondlife.slots.vegas.free"
+  },
+  {
+    "id": 161,
+    "app_name": "Slots: Heart of Vegas™ – Free Slot Casino Games",
+    "package_id": "com.productmadness.hovmobile"
+  },
+  {
+    "id": 162,
+    "app_name": "Coin Dozer: Casino",
+    "package_id": "com.gamecircus.CoinDozerJackpot"
+  },
+  {
+    "id": 163,
+    "app_name": "Deluxe Slots: Las Vegas Casino",
+    "package_id": "com.luckyjoy.cleopatraslots"
+  },
+  {
+    "id": 164,
+    "app_name": "Casino Crime FREE",
+    "package_id": "com.hg.casinocrimefree"
+  },
+  {
+    "id": 165,
+    "app_name": "Free Slots Casino - Adventures",
+    "package_id": "com.huuuge.jomhd"
+  },
+  {
+    "id": 166,
+    "app_name": "Free Vegas Casino Slots - Samurai",
+    "package_id": "com.huuuge.samurai"
+  },
+  {
+    "id": 167,
+    "app_name": "Real Casino Vegas:777 Classic Slots & Casino Games",
+    "package_id": "com.slots.realvegas2"
+  },
+  {
+    "id": 168,
+    "app_name": "GSN Casino: Play casino games- slots, poker, bingo",
+    "package_id": "com.gsn.android.casino"
+  },
+  {
+    "id": 169,
+    "app_name": "City of Dreams Slots - Free Slot Casino Games",
+    "package_id": "com.newsparkgame.cityofdreams"
+  },
+  {
+    "id": 170,
+    "app_name": "Astraware Casino HD",
+    "package_id": "com.astraware.casino"
+  },
+  {
+    "id": 171,
+    "app_name": "Casino Deluxe Vegas - Slots, Poker & Card Games",
+    "package_id": "com.igg.android.casinodeluxebyigg"
+  },
+  {
+    "id": 172,
+    "app_name": "Slots! CashHit Slot Machines & Casino Games Party",
+    "package_id": "com.vegasslotspocket.heartofdiamond"
+  },
+  {
+    "id": 173,
+    "app_name": "Casino Kitty Free Slot Machine",
+    "package_id": "com.RocketGames.CasinoKitty"
+  },
+  {
+    "id": 174,
+    "app_name": "Craps - Casino Style",
+    "package_id": "com.phonato.craps"
+  },
+  {
+    "id": 175,
+    "app_name": "Slots: Hot Vegas Slot Machines Casino & Free Games",
+    "package_id": "com.superluckycasino.hotvegas.slots.vegas.android.free"
+  },
+  {
+    "id": 176,
+    "app_name": "Slots Tiger King Casino Slots",
+    "package_id": "com.RocketGames.TigerKing"
+  },
+  {
+    "id": 177,
+    "app_name": "Casino X - Free Online Slots",
+    "package_id": "itembox.crayfish.x"
+  },
+  {
+    "id": 178,
+    "app_name": "Royal Jackpot Casino - Free Las Vegas Slots Games",
+    "package_id": "com.royaljackpot.vegas.casino"
+  },
+  {
+    "id": 179,
+    "app_name": "VIP Slots Club ★ VIP Casino",
+    "package_id": "com.duksel.slotsclubvip"
+  },
+  {
+    "id": 180,
+    "app_name": "Winning Slots™ - Free Vegas Casino Jackpot Slots",
+    "package_id": "slots.machine.winning.android"
+  },
+  {
+    "id": 181,
+    "app_name": "Vegas Deluxe Slots:Free Casino",
+    "package_id": "com.zentertain.vegasdeluxeslots"
+  },
+  {
+    "id": 182,
+    "app_name": "Lightning Slots ™ Best New Vegas Casino Slot Games",
+    "package_id": "com.games.lightningslots"
+  },
+  {
+    "id": 183,
+    "app_name": "Cash Frenzy Casino – Top Casino Games",
+    "package_id": "slots.pcg.casino.games.free.android"
+  },
+  {
+    "id": 184,
+    "app_name": "Galaxy Casino Live - Slots, Bingo & Card Game",
+    "package_id": "com.nurigames.casinolive"
+  },
+  {
+    "id": 185,
+    "app_name": "Golden Lion Slots™-Free Casino",
+    "package_id": "com.goldenlion.slots"
+  },
+  {
+    "id": 186,
+    "app_name": "Classic Slots: Free Casino Games & Slot Machines",
+    "package_id": "com.aaagame.aaacasino"
+  },
+  {
+    "id": 187,
+    "app_name": "Casino: free 777 slots machine",
+    "package_id": "com.huuuge.freespins"
+  },
+  {
+    "id": 188,
+    "app_name": "Casino Video Poker Deluxe VIP",
+    "package_id": "com.nvgamepad.casino_video_poker_deluxe"
+  },
+  {
+    "id": 189,
+    "app_name": "Keno Casino",
+    "package_id": "com.horroronthego.Keno_Casino"
+  },
+  {
+    "id": 190,
+    "app_name": "Classic Slots Free - Vegas Casino Slot Machines",
+    "package_id": "com.luckmob.classic"
+  },
+  {
+    "id": 191,
+    "app_name": "Huge Win Slots: Real Free Huge Classic Casino Game",
+    "package_id": "com.citrusjoy.trojan"
+  },
+  {
+    "id": 192,
+    "app_name": "Grand Jackpot Slots - Pop Vegas Casino Free Games",
+    "package_id": "triwin.slots.jackpot.grand"
+  },
+  {
+    "id": 193,
+    "app_name": "Coin Pusher Carnival - Luckywin Casino",
+    "package_id": "coin.dozer.arcadegame.free.casino"
+  },
+  {
+    "id": 194,
+    "app_name": "CasinoRPG: Casino Tycoon Games & Vegas Slots World",
+    "package_id": "com.goldfirestudios.casinorpg"
+  },
+  {
+    "id": 195,
+    "app_name": "Gold Fish Casino Slots – Free Online Slot Machines",
+    "package_id": "com.williamsinteractive.goldfish"
+  },
+  {
+    "id": 196,
+    "app_name": "Old Vegas Slots – Classic Free Casino Games Online",
+    "package_id": "com.DgnGames.OldVegasSlots"
+  },
+  {
+    "id": 197,
+    "app_name": "Cashman Casino - Free Slots Machines & Vegas Games",
+    "package_id": "com.productmadness.cashmancasino"
+  },
+  {
+    "id": 198,
+    "app_name": "Vegas Slot Machines and Casino Games - Casino Plus",
+    "package_id": "com.higgs.plus2"
+  },
+  {
+    "id": 199,
+    "app_name": "Scatter Slots - Free Casino Slot Machines Online",
+    "package_id": "com.murka.scatterslots"
+  },
+  {
+    "id": 200,
+    "app_name": "VegasStar™ Casino - FREE Slots",
+    "package_id": "com.zentertain.vegasstarcasino"
+  },
+  {
+    "id": 201,
+    "app_name": "GameTwist Casino Slots games & Free Slot Machines",
+    "package_id": "com.funstage.gta"
+  },
+  {
+    "id": 202,
+    "app_name": "Slots (Golden HoYeah) - Casino Slots",
+    "package_id": "com.igs.fafafa"
+  },
+  {
+    "id": 203,
+    "app_name": "Hot Shot Casino - Vegas Slots Games",
+    "package_id": "com.williamsinteractive.hotshotcasino"
+  },
+  {
+    "id": 204,
+    "app_name": "OMG! Fortune Slots - Grand Casino Winning Games!",
+    "package_id": "com.luckyfish.omgfortune"
+  },
+  {
+    "id": 205,
+    "app_name": "Soboba Casino",
+    "package_id": "com.mvl.SobobaCasino"
+  },
+  {
+    "id": 206,
+    "app_name": "Casino Cash Cats Slots PAID",
+    "package_id": "com.bigluckywin.slotscasinocashcatspaid"
+  },
+  {
+    "id": 207,
+    "app_name": "Simple Slots Casino",
+    "package_id": "com.randomsaladgames.simpleslots"
+  },
+  {
+    "id": 208,
+    "app_name": "SLOTS! Deluxe Free Slots Casino Slot Machines",
+    "package_id": "com.RocketGames.ClassicDeluxe"
+  },
+  {
+    "id": 209,
+    "app_name": "777 Slots – Free Casino",
+    "package_id": "com.dragonplay.slotcity"
+  },
+  {
+    "id": 210,
+    "app_name": "Lightning Link Casino – Free Slots Games",
+    "package_id": "com.productmadness.lightninglink"
+  },
+  {
+    "id": 211,
+    "app_name": "Jackpot Slots - Slot Machines & Free Casino Games",
+    "package_id": "com.link.newslots"
+  },
+  {
+    "id": 212,
+    "app_name": "Casino Drive et Livraison",
+    "package_id": "fr.casino.casinodrive"
+  },
+  {
+    "id": 213,
+    "app_name": "Casino Jackpot slots machine",
+    "package_id": "com.prunella.hivn.jackspot"
+  },
+  {
+    "id": 214,
+    "app_name": "Sunny Slots Casino",
+    "package_id": "com.noxplay.slot.machines.sunny"
+  },
+  {
+    "id": 215,
+    "app_name": "Vegas Casino Slots 2019 - 2,000,000 Free Coins",
+    "package_id": "com.vegas.casino.slots.game"
+  },
+  {
+    "id": 216,
+    "app_name": "Gambino Slots: Free Online Casino Slot Machines",
+    "package_id": "gambino.android"
+  },
+  {
+    "id": 217,
+    "app_name": "Casino Tracker",
+    "package_id": "com.casino.casinoTracker"
+  },
+  {
+    "id": 218,
+    "app_name": "Stars™ Slots Casino - Play With Friends",
+    "package_id": "com.huuuge.stars.slots"
+  },
+  {
+    "id": 219,
+    "app_name": "Richest Slots Casino-Free Macau Jackpot Slots",
+    "package_id": "triwin.billionaire.casino.free"
+  },
+  {
+    "id": 220,
+    "app_name": "Slots: No Limits - Slots Free with Bonus Casinos!",
+    "package_id": "com.superluckycasino.nolimit.slots.vegas.android.free"
+  },
+  {
+    "id": 221,
+    "app_name": "Greektown Casino-Hotel",
+    "package_id": "com.joingo.grkt"
+  },
+  {
+    "id": 222,
+    "app_name": "Diamond Sky Casino – Classic Vegas Slots & Lottery",
+    "package_id": "com.DesignWorks.DscAndroid"
+  },
+  {
+    "id": 223,
+    "app_name": "Slots: Epic Jackpot Free Slot Games Vegas Casino",
+    "package_id": "com.superluckycasino.epicjackpot.slots.vegas.android.free"
+  },
+  {
+    "id": 224,
+    "app_name": "Rivers Casino Pittsburgh",
+    "package_id": "com.joingo.rvrs"
+  },
+  {
+    "id": 225,
+    "app_name": "Casino Crime FREE",
+    "package_id": "com.hg.casinocrime"
+  },
+  {
+    "id": 226,
+    "app_name": "Ra slots - casino slot machines",
+    "package_id": "slots.slot.machine.casino.free"
+  },
+  {
+    "id": 227,
+    "app_name": "Colusa Casino Resort",
+    "package_id": "com.joingo.colu"
+  },
+  {
+    "id": 228,
+    "app_name": "CRAZY CASINO UK Fruit Machine",
+    "package_id": "com.CashRouletteSlotPaid"
+  },
+  {
+    "id": 229,
+    "app_name": "Tap it Big : Casino Empire",
+    "package_id": "com.pikpok.tir.play"
+  },
+  {
+    "id": 230,
+    "app_name": "Four Queens Casino",
+    "package_id": "com.fsgolv.fourqueens"
+  },
+  {
+    "id": 231,
+    "app_name": "Prison Escape Casino Robbery - Grand theft games",
+    "package_id": "com.cradley.prison.escape.casino.robbery"
+  },
+  {
+    "id": 232,
+    "app_name": "Harlow's Casino",
+    "package_id": "com.harlows"
+  },
+  {
+    "id": 233,
+    "app_name": "Vegas Tower Casino - Free Slot Machines & Casino",
+    "package_id": "com.jiwoogames.vegastowercasino"
+  },
+  {
+    "id": 234,
+    "app_name": "Slotpark - Online Casino Games & Free Slot Machine",
+    "package_id": "com.platogo.pmp"
+  },
+  {
+    "id": 235,
+    "app_name": "Binion's Casino",
+    "package_id": "com.freeslotgamesoflasvegas.binions"
+  },
+  {
+    "id": 236,
+    "app_name": "Osage Casino",
+    "package_id": "com.osage.osage"
+  },
+  {
+    "id": 237,
+    "app_name": "JACK - Casino Offers, Promotions, Comps & Valet",
+    "package_id": "com.joingo.jack"
+  },
+  {
+    "id": 238,
+    "app_name": "Twin River Casino Hotel",
+    "package_id": "com.joingo.twin"
+  },
+  {
+    "id": 239,
+    "app_name": "Slot machines - Casino slots",
+    "package_id": "slots.slot.machine.casino"
+  },
+  {
+    "id": 240,
+    "app_name": "Quick Hit Casino Slots - Free Slot Machines Games",
+    "package_id": "com.ballytechnologies.quickhitslots"
+  },
+  {
+    "id": 241,
+    "app_name": "MyPalaCasino: Free Casino",
+    "package_id": "air.com.palainteractive.social.mypalacasino"
+  },
+  {
+    "id": 242,
+    "app_name": "Northern Quest Resort & Casino",
+    "package_id": "com.joingo.nnqt"
+  },
+  {
+    "id": 243,
+    "app_name": "Slots: Free Casino Slot Machines Quest Online",
+    "package_id": "com.happymin.slots.quest.casino.free"
+  },
+  {
+    "id": 244,
+    "app_name": "7Heart Casino Games - FREE Vegas Slot Machines!",
+    "package_id": "com.phonato.casino.slots.vegas.free.game"
+  },
+  {
+    "id": 245,
+    "app_name": "Casino Card Game",
+    "package_id": "casino.game"
+  },
+  {
+    "id": 246,
+    "app_name": "BigWin Casino - Blackjack,Slot,Baccarat,Roulette",
+    "package_id": "com.happiplay.bestbj"
+  },
+  {
+    "id": 247,
+    "app_name": "Slots Nova: Casino Slot Machines",
+    "package_id": "com.vegasslotspocket.goldenwolf"
+  },
+  {
+    "id": 248,
+    "app_name": "MERKUR24 – Online Casino & Slot Machines",
+    "package_id": "de.merkur24.universalapp"
+  },
+  {
+    "id": 249,
+    "app_name": "Wizard of Oz Free Slots Casino",
+    "package_id": "com.zynga.wizardofoz"
+  },
+  {
+    "id": 250,
+    "app_name": "Jackpot Casino",
+    "package_id": "de.whow.jackpotuniversal"
+  },
+  {
+    "id": 251,
+    "app_name": "Clickfun Casino Slots",
+    "package_id": "air.biz.rightshift.clickfun.casino"
+  },
+  {
+    "id": 252,
+    "app_name": "Slots Billionaire - Free Casino Slot Games!",
+    "package_id": "com.superluckycasino.billionaire.slots.vegas.android.free"
+  },
+  {
+    "id": 253,
+    "app_name": "High 5 Casino: Free Vegas Slot Games",
+    "package_id": "com.h5g.high5casino"
+  },
+  {
+    "id": 254,
+    "app_name": "Roulette Journey",
+    "package_id": "com.roulette.journey"
+  },
+  {
+    "id": 255,
+    "app_name": "Craps – Casino Dice Game",
+    "package_id": "air.com.craps.casino.dice.game"
+  },
+  {
+    "id": 256,
+    "app_name": "Slot Machine+",
+    "package_id": "com.apostek.SlotMachine.paid"
+  },
+  {
+    "id": 257,
+    "app_name": "777 Casino – Best free classic vegas slots games",
+    "package_id": "com.slotslimited.superstar"
+  },
+  {
+    "id": 258,
+    "app_name": "American Casino Guide",
+    "package_id": "com.sb.android.acg"
+  },
+  {
+    "id": 259,
+    "app_name": "Club Vegas – Slots for Free & Casino Games to Play",
+    "package_id": "com.bagelcode.slots1"
+  },
+  {
+    "id": 260,
+    "app_name": "myVEGAS Slots - Las Vegas Casino Slot Machines",
+    "package_id": "com.playstudios.myvegas"
+  },
+  {
+    "id": 261,
+    "app_name": "Slingo Casino",
+    "package_id": "com.gamehouse.casino"
+  },
+  {
+    "id": 262,
+    "app_name": "Cashmania Slots 2019: Free Vegas Casino Slot Game",
+    "package_id": "com.zealgames.cashmania"
+  },
+  {
+    "id": 263,
+    "app_name": "RealCasino:Roulette,Slot,Poker",
+    "package_id": "air.com.casinogamestudio.casino"
+  },
+  {
+    "id": 264,
+    "app_name": "Roulette Casino Americano",
+    "package_id": "com.sonnygames.casino.vegas.roulette"
+  },
+  {
+    "id": 265,
+    "app_name": "Game of Thrones Slots Casino: Epic Free Slots Game",
+    "package_id": "com.zynga.gotslots"
+  },
+  {
+    "id": 266,
+    "app_name": "Grand Casino Robbery 2019",
+    "package_id": "com.wpl.grand.casino.bank.robbery.vegas"
+  },
+  {
+    "id": 267,
+    "app_name": "Snoqualmie Casino",
+    "package_id": "com.mvl.snoq"
+  },
+  {
+    "id": 268,
+    "app_name": "Real Vegas Slots - FREE Casino Games",
+    "package_id": "com.slots.realvegas3"
+  },
+  {
+    "id": 269,
+    "app_name": "del Lago Casino",
+    "package_id": "com.joingo.lago"
+  },
+  {
+    "id": 270,
+    "app_name": "Slots: Fast Fortune Free Casino Slots with Bonus",
+    "package_id": "com.superluckycasino.fortunespin.slots.vegas.android.free"
+  },
+  {
+    "id": 271,
+    "app_name": "POP! Slots - Free Vegas Casino Slot Machine Games",
+    "package_id": "com.playstudios.popslots"
+  },
+  {
+    "id": 272,
+    "app_name": "Our Slots - Casino",
+    "package_id": "air.com.our.games.slots"
+  },
+  {
+    "id": 273,
+    "app_name": "Double Spin Casino - Free Slots Machines",
+    "package_id": "com.vegas.doubleu.spin.casino.free.slots.machines"
+  },
+  {
+    "id": 274,
+    "app_name": "Fishing Casino - Free Fish Game Arcades",
+    "package_id": "com.golden.fishing.android.avidly"
+  },
+  {
+    "id": 275,
+    "app_name": "Infinity Slots™ Free Online Casino Slots Machines",
+    "package_id": "com.murka.infinityslots"
+  },
+  {
+    "id": 276,
+    "app_name": "Casino Informer",
+    "package_id": "com.howards.casinoinformer"
+  },
+  {
+    "id": 277,
+    "app_name": "Vegas Party Slots--Double Fun Free Casino Machines",
+    "package_id": "com.casino.slots.free.vegaspartyslots"
+  },
+  {
+    "id": 278,
+    "app_name": "Fantasy Springs Resort Casino",
+    "package_id": "com.mvl.FantasySprings"
+  },
+  {
+    "id": 279,
+    "app_name": "BlackJack 21 - Online Blackjack multiplayer casino",
+    "package_id": "eu.mvns.games"
+  },
+  {
+    "id": 280,
+    "app_name": "Dragon Ace Casino - Baccarat",
+    "package_id": "com.gamespring.dac"
+  },
+  {
+    "id": 281,
+    "app_name": "Hit it Rich! Free Casino Slots",
+    "package_id": "com.zynga.hititrich"
+  },
+  {
+    "id": 282,
+    "app_name": "Vegas Grand Slots: FREE Casino",
+    "package_id": "com.zentertain.vegasgrandslots"
+  },
+  {
+    "id": 283,
+    "app_name": "Free Slots: 88 Fortunes - Vegas Casino Slot Games!",
+    "package_id": "com.ballytechnologies.f88"
+  },
+  {
+    "id": 284,
+    "app_name": "MyJackpot – Vegas Slot Machines & Casino Games",
+    "package_id": "de.whow.jackpot"
+  },
+  {
+    "id": 285,
+    "app_name": "Casino Slots - Slot Machines",
+    "package_id": "slots.casino.slot.machine"
+  },
+  {
+    "id": 286,
+    "app_name": "God of Sky - Huge Slots Machines",
+    "package_id": "com.huuuge.zeus"
+  },
+  {
+    "id": 287,
+    "app_name": "Vegas Live Slots : Free Casino Slot Machine Games",
+    "package_id": "com.purplekiwii.vegaslive"
+  },
+  {
+    "id": 288,
+    "app_name": "Casino Vegas Coin Party Dozer",
+    "package_id": "com.mss.casino.dozer.coin.pusher.google"
+  },
+  {
+    "id": 289,
+    "app_name": "Zynga Poker – Free Texas Holdem Online Card Games",
+    "package_id": "com.zynga.livepoker"
+  },
+  {
+    "id": 290,
+    "app_name": "Slot Machines!",
+    "package_id": "com.superluckycasino.doubleup.slots.vegas.android.free"
+  },
+  {
+    "id": 291,
+    "app_name": "Slots Super Tiger Casino Slots",
+    "package_id": "com.EasyMoneySlots.SuperTiger"
+  },
+  {
+    "id": 292,
+    "app_name": "Governor of Poker 3 - Texas Holdem Casino Online",
+    "package_id": "com.youdagames.gop3multiplayer"
+  },
+  {
+    "id": 293,
+    "app_name": "World Baccarat Classic- Casino",
+    "package_id": "bet.society.wbc"
+  },
+  {
+    "id": 294,
+    "app_name": "Casino Games: Slots Adventure",
+    "package_id": "com.gamelion.slots"
+  },
+  {
+    "id": 295,
+    "app_name": "Cleopatra Slots: Huge Casino",
+    "package_id": "com.slot.great.cleopatraslots"
+  },
+  {
+    "id": 296,
+    "app_name": "Bicycle Casino",
+    "package_id": "com.pokeratlas.thebicyclecasino"
+  },
+  {
+    "id": 297,
+    "app_name": "Triple Double Slots - Free Slots Casino Slot Games",
+    "package_id": "com.RocketGames.TripleDouble"
+  },
+  {
+    "id": 298,
+    "app_name": "Choctaw Casino",
+    "package_id": "com.joingo.ctaw"
+  },
+  {
+    "id": 299,
+    "app_name": "Luckyo Casino and Free Slots",
+    "package_id": "com.aemobile.games.casino"
+  },
+  {
+    "id": 300,
+    "app_name": "my KONAMI Slots - Free Vegas Casino Slot Machines",
+    "package_id": "com.playstudios.mykonami"
+  },
+  {
+    "id": 301,
+    "app_name": "Wild Triple Slots: Vegas Casino Classic Slots",
+    "package_id": "air.com.wildtripleslots"
+  },
+  {
+    "id": 302,
+    "app_name": "Vegas Slot Machines Casino",
+    "package_id": "com.huuuge.vegas"
+  },
+  {
+    "id": 303,
+    "app_name": "Baccarat Online 3D Free Casino",
+    "package_id": "com.gamespring.onlinebacus"
+  },
+  {
+    "id": 304,
+    "app_name": "Hollywood Jackpot Slots - Free Slot Machine Games",
+    "package_id": "com.RocketGames.HollywoodClassic"
+  },
+  {
+    "id": 305,
+    "app_name": "Casino Spin",
+    "package_id": "com.bengigi.casinospin"
+  },
+  {
+    "id": 306,
+    "app_name": "Black Oak Casino Resort",
+    "package_id": "com.mvl.BlackOakCasino"
+  },
+  {
+    "id": 307,
+    "app_name": "Link It Rich! Hot Vegas Casino Slots FREE",
+    "package_id": "com.mofunslots.richescasino"
+  },
+  {
+    "id": 308,
+    "app_name": "Offline Vegas Casino Slots:Free Slot Machines Game",
+    "package_id": "com.sagafun.casinoslots"
+  },
+  {
+    "id": 309,
+    "app_name": "Best Casino Slots for Fun - Free",
+    "package_id": "com.diwip.vslots"
+  },
+  {
+    "id": 310,
+    "app_name": "San Manuel Casino",
+    "package_id": "com.mvl.sanmanuel"
+  },
+  {
+    "id": 311,
+    "app_name": "Play Mohawk Casino",
+    "package_id": "com.agsinteractive.playmohawk"
+  },
+  {
+    "id": 312,
+    "app_name": "Casino Spin",
+    "package_id": "com.bengigi.casinospin"
+  },
+  {
+    "id": 313,
+    "app_name": "Thunder Jackpot Slots Casino - Free Slot Games",
+    "package_id": "com.thunderlink.slots"
+  },
+  {
+    "id": 314,
+    "app_name": "Lucky Time Slots Online - Free Slot Machine Games",
+    "package_id": "com.winnersclub.empire88slots"
+  },
+  {
+    "id": 315,
+    "app_name": "Slots Galaxy™️ Vegas Slot Machines",
+    "package_id": "air.com.slotgalaxy"
+  },
+  {
+    "id": 316,
+    "app_name": "Slots Casino",
+    "package_id": "com.geaxgame.slots.casino"
+  },
+  {
+    "id": 317,
+    "app_name": "Vegas Teen Patti - 3 Card Poker & Casino Games",
+    "package_id": "com.wittygames.teenpatti"
+  },
+  {
+    "id": 318,
+    "app_name": "Mega Win Casino - Free Slots",
+    "package_id": "com.fivestargames.megawin"
+  },
+  {
+    "id": 319,
+    "app_name": "Lucky North Casino- Free Slots",
+    "package_id": "com.rubyseven.luckynorthcasino"
+  },
+  {
+    "id": 320,
+    "app_name": "Casino Caliente",
+    "package_id": "com.calientecasinoapp"
+  },
+  {
+    "id": 321,
+    "app_name": "Rock N' Cash Casino Slots -Free Vegas Slot Games",
+    "package_id": "net.flysher.rockncash"
+  },
+  {
+    "id": 322,
+    "app_name": "Big Bonus Slots - Free Las Vegas Casino Slot Game",
+    "package_id": "com.RocketGames.BigHitVegas"
+  },
+  {
+    "id": 323,
+    "app_name": "Millionaire slots Casino",
+    "package_id": "hotgames.slots.millionair"
+  },
+  {
+    "id": 324,
+    "app_name": "Real Casino - Free Vegas Casino Slot Machines",
+    "package_id": "com.hncgames.realcasino"
+  },
+  {
+    "id": 325,
+    "app_name": "Royal Slots Free Slot Machines & Casino Games",
+    "package_id": "com.luckios.buffaloslots"
+  },
+  {
+    "id": 326,
+    "app_name": "Players Paradise Casino Slots - Fun Free Slots!",
+    "package_id": "com.pokiemagic.playersparadisecasino"
+  },
+  {
+    "id": 327,
+    "app_name": "Lucky Time Slots Online - Free Slot Machine Games",
+    "package_id": "com.winnersclub.empire88slots"
+  },
+  {
+    "id": 328,
+    "app_name": "Betup",
+    "package_id": "org.betup"
+  },
+  {
+    "id": 329,
+    "app_name": "India Bet",
+    "package_id": "com.indiabet2.android.app"
+  },
+  {
+    "id": 330,
+    "app_name": "Betacular viewer",
+    "package_id": "com.betacular.app.betfairviewer2"
+  },
+  {
+    "id": 331,
+    "app_name": "Solo sports betting tips",
+    "package_id": "com.solo.free"
+  },
+  {
+    "id": 332,
+    "app_name": "Game miracle",
+    "package_id": "gamemiracle.iHorseBettingFree"
+  },
+  {
+    "id": 333,
+    "app_name": "CrickBetting - ICC World Cup 2019, Live Line Score",
+    "package_id": "com.lexcorp.crickbettingpro"
+  },
+  {
+    "id": 334,
+    "app_name": "Sports Betting™ the Sportsbook Freeplay App",
+    "package_id": "com.deportes"
+  },
+  {
+    "id": 335,
+    "app_name": "Betting Keeda",
+    "package_id": "com.ovalogic.wc2k15"
+  },
+  {
+    "id": 336,
+    "app_name": "Horse Racing & Betting Game",
+    "package_id": "com.ruh.hracebet"
+  },
+  {
+    "id": 337,
+    "app_name": "Fixed Match",
+    "package_id": "com.betandwin.bettingtips"
+  },
+  {
+    "id": 338,
+    "app_name": "Line 365",
+    "package_id": "co.line365.app"
+  },
+  {
+    "id": 339,
+    "app_name": "Vipbanko Betting Picks",
+    "package_id": "com.turkisnet.vipbanko"
+  },
+  {
+    "id": 340,
+    "app_name": "Cricket Betting Calculator - Khai Lagai",
+    "package_id": "com.wondrousapps.cricketbettingcalculation"
+  },
+  {
+    "id": 341,
+    "app_name": "ICC Cricket World Cup Betting 2019",
+    "package_id": "com.nilkanth.icc_world_cup_betting"
+  },
+  {
+    "id": 342,
+    "app_name": "Sports Betting App",
+    "package_id": "com.SportsApp"
+  },
+  {
+    "id": 343,
+    "app_name": "O Football - Betting Predictions & Tips",
+    "package_id": "com.oplay.football"
+  },
+  {
+    "id": 344,
+    "app_name": "Sport Prediction",
+    "package_id": "com.micriptana.pronosticosdeportivos"
+  },
+  {
+    "id": 345,
+    "app_name": "Matched Betting Toolbox",
+    "package_id": "mickeywaffle.navigationplay"
+  },
+  {
+    "id": 346,
+    "app_name": "CricSatta",
+    "package_id": "com.raatechnocrates.cricsatta"
+  },
+  {
+    "id": 347,
+    "app_name": "Correct Score Betting Tips",
+    "package_id": "com.dream.correct"
+  },
+  {
+    "id": 348,
+    "app_name": "Soccer Eleven - Top Football Manager 2019",
+    "package_id": "com.bambo.soccer.eleven.football.manager"
+  },
+  {
+    "id": 349,
+    "app_name": "Fantasy Cric League",
+    "package_id": "com.fantasycricleague"
+  },
+  {
+    "id": 350,
+    "app_name": "Fantasy Teams D11",
+    "package_id": "com.project.harrison.fantasyteams"
+  },
+  {
+    "id": 351,
+    "app_name": "Dream11 Arena",
+    "package_id": "com.microshift_india.microshift.dream11_arena"
+  },
+  {
+    "id": 352,
+    "app_name": "Cricket WorldCup Fever",
+    "package_id": "com.indiagames.cricketworldcup"
+  },
+  {
+    "id": 353,
+    "app_name": "Money Click Game - Win Prizes , Earn Money by Rain",
+    "package_id": "com.elixir.makemoneyrain"
+  },
+  {
+    "id": 354,
+    "app_name": "Fantasy League Team - Cricket,Football,NBA,Hockey",
+    "package_id": "io.kodular.dream11_predicteam.FantasyLeagueTeam"
+  },
+  {
+    "id": 355,
+    "app_name": "ICC Cricket World Cup Betting 2019",
+    "package_id": "com.nilkanth.icc_world_cup_betting"
+  },
+  {
+    "id": 356,
+    "app_name": "Cricrush",
+    "package_id": "com.cricrush"
+  },
+  {
+    "id": 357,
+    "app_name": "Cricket Fantasy",
+    "package_id": "com.impulse.playing11"
+  },
+  {
+    "id": 358,
+    "app_name": "DreamGuru - ( News & tips for Dream11 )",
+    "package_id": "sports.dreamguru.fantasy_team_prediction_news_tips"
+  },
+  {
+    "id": 359,
+    "app_name": "Dream India Dream Registration",
+    "package_id": "com.anrashidevelopers.Dream_India_Dream"
+  },
+  {
+    "id": 360,
+    "app_name": "Cricket Predict and Win",
+    "package_id": "com.astutesol.product.livecricket"
+  },
+  {
+    "id": 361,
+    "app_name": "CricFL - Cricket Fantasy League",
+    "package_id": "com.cricfl.fantasy"
+  },
+  {
+    "id": 362,
+    "app_name": "Dream Team - Fantasy Football",
+    "package_id": "com.yoc.dreamteam"
+  },
+  {
+    "id": 363,
+    "app_name": "TopQuiz - Play Quiz | Win PayTm cash",
+    "package_id": "com.brainnr.trivia"
+  },
+  {
+    "id": 364,
+    "app_name": "Cric Fantasy League",
+    "package_id": "com.raatechnocrates.fantasyleague"
+  },
+  {
+    "id": 365,
+    "app_name": "Confirmed 11 - Cricket & Kabaddi Dream11 Lineups",
+    "package_id": "com.dream11.starting11"
+  },
+  {
+    "id": 366,
+    "app_name": "DT11 GL - Grand League Team for Fantasy Cricket",
+    "package_id": "com.startech.dreamteam11.gl"
+  },
+  {
+    "id": 367,
+    "app_name": "Dream team expert",
+    "package_id": "dream.team5"
+  },
+  {
+    "id": 368,
+    "app_name": "Greatest11™ - Team with Video for #Dream11, #CWC19",
+    "package_id": "com.apps2win.greatest11dream11"
+  },
+  {
+    "id": 369,
+    "app_name": "D11 Fantasy World - Fantasy News , Teams , Codes.",
+    "package_id": "com.rockstarapps.sys.D11FantasyWorld"
+  },
+  {
+    "id": 370,
+    "app_name": "Zynga Poker – Free Texas Holdem Online Card Games",
+    "package_id": "com.zynga.livepoker"
+  },
+  {
+    "id": 371,
+    "app_name": "World Series of Poker – WSOP Free Texas Holdem",
+    "package_id": "com.playtika.wsop.gp"
+  },
+  {
+    "id": 372,
+    "app_name": "Poker Offline",
+    "package_id": "com.byte3d.poker"
+  },
+  {
+    "id": 373,
+    "app_name": "DH Texas Poker - Texas Hold'em",
+    "package_id": "com.droidhen.game.poker"
+  },
+  {
+    "id": 374,
+    "app_name": "Poker Heat™ - Free Texas Holdem Poker Games",
+    "package_id": "com.bigblueparrot.pokerfriends"
+  },
+  {
+    "id": 375,
+    "app_name": "Poker Games: World Poker Club",
+    "package_id": "air.ru.crazypanda.wpcm"
+  },
+  {
+    "id": 376,
+    "app_name": "Governor of Poker 2 - OFFLINE POKER GAME",
+    "package_id": "air.com.youdagames.google.ww.gop2MobileFree"
+  },
+  {
+    "id": 377,
+    "app_name": "Poker Online (& Offline)",
+    "package_id": "com.byte3d.pokertexas"
+  },
+  {
+    "id": 378,
+    "app_name": "Texas hold'em & Omaha poker: Pokerist",
+    "package_id": "com.kamagames.pokerist"
+  },
+  {
+    "id": 379,
+    "app_name": "Live Hold’em Pro Poker - Free Casino Games",
+    "package_id": "com.dragonplay.liveholdempro"
+  },
+  {
+    "id": 380,
+    "app_name": "Boyaa Poker (En) – Social Texas Hold’em",
+    "package_id": "com.boyaa.fben"
+  },
+  {
+    "id": 381,
+    "app_name": "Offline Poker - Texas Holdem",
+    "package_id": "cota.android.TexasHoldem"
+  },
+  {
+    "id": 382,
+    "app_name": "Poker Texas Boyaa",
+    "package_id": "com.boyaa.androidmarketid"
+  },
+  {
+    "id": 383,
+    "app_name": "PokerStars: Free Poker Games with Texas Holdem",
+    "package_id": "com.pyrsoftware.pokerstars.net"
+  },
+  {
+    "id": 384,
+    "app_name": "Governor of Poker 3 - Texas Holdem Casino Online",
+    "package_id": "com.youdagames.gop3multiplayer"
+  },
+  {
+    "id": 385,
+    "app_name": "Texas HoldEm Poker Deluxe",
+    "package_id": "com.igg.pokerdeluxe"
+  },
+  {
+    "id": 386,
+    "app_name": "Simple Poker",
+    "package_id": "ippok.simplepoker"
+  },
+  {
+    "id": 387,
+    "app_name": "Poker World - Offline Texas Holdem",
+    "package_id": "com.youdagames.pokerworld"
+  },
+  {
+    "id": 388,
+    "app_name": "Texas Holdem Poker Pro",
+    "package_id": "com.geaxgame.pokerkingpro"
+  },
+  {
+    "id": 389,
+    "app_name": "VIDEO POKER OFFLINE FREE!",
+    "package_id": "com.twelvegigs.heaven.vpoker"
+  },
+  {
+    "id": 390,
+    "app_name": "Artrix Poker",
+    "package_id": "com.playshoo.texaspoker.romania"
+  },
+  {
+    "id": 391,
+    "app_name": "Poker Online",
+    "package_id": "com.rstgames.poker"
+  },
+  {
+    "id": 392,
+    "app_name": "Dragonplay™ Poker Texas Holdem",
+    "package_id": "com.dragonplay.dragonplaypoker"
+  },
+  {
+    "id": 393,
+    "app_name": "Poker Championship online",
+    "package_id": "com.csogames.client.android.app.texaspoker"
+  },
+  {
+    "id": 394,
+    "app_name": "Ultimate Poker - Texas Hold'em",
+    "package_id": "com.games24x7.ultimatepoker.playstore"
+  },
+  {
+    "id": 395,
+    "app_name": "Mega Hit Poker: Texas Holdem massive tournament",
+    "package_id": "com.wonderpeople.megahitpoker.global"
+  },
+  {
+    "id": 396,
+    "app_name": "Teen Patti Flush: 3 Patti Poker",
+    "package_id": "com.games.poker.teenpatti"
+  },
+  {
+    "id": 397,
+    "app_name": "Poker Texas Holdem Live Pro",
+    "package_id": "eu.ganymede.pokerhd"
+  },
+  {
+    "id": 398,
+    "app_name": "Jackpot Poker by PokerStars - FREE Poker Games",
+    "package_id": "com.pokerstars.cebo"
+  },
+  {
+    "id": 399,
+    "app_name": "Poker KinG Online-Texas Holdem",
+    "package_id": "com.geaxgame.pokerking"
+  },
+  {
+    "id": 400,
+    "app_name": "Poker Online: Texas Holdem & Casino Card Games",
+    "package_id": "com.tbegames.and.poker_games_texas"
+  },
+  {
+    "id": 401,
+    "app_name": "Video Poker Classic Free",
+    "package_id": "com.tapinator.videopokerclassic"
+  },
+  {
+    "id": 402,
+    "app_name": "Texas HoldEm Poker Deluxe Pro",
+    "package_id": "com.igg.pokerdeluxepro"
+  },
+  {
+    "id": 403,
+    "app_name": "Tubb Teen Patti - Indian Poker - TTP",
+    "package_id": "com.tubbgames.teenpatti"
+  },
+  {
+    "id": 404,
+    "app_name": "Poker",
+    "package_id": "com.abzorbagames.tango.poker"
+  },
+  {
+    "id": 405,
+    "app_name": "Poker Arena: texas holdem game",
+    "package_id": "air.ru.mail.games.pokerarena"
+  },
+  {
+    "id": 406,
+    "app_name": "Poker",
+    "package_id": "air.com.dotpico.poker"
+  },
+  {
+    "id": 407,
+    "app_name": "Texas HoldEm Poker FREE - Live",
+    "package_id": "com.mywavia.poker.android"
+  },
+  {
+    "id": 408,
+    "app_name": "Three Card Poker",
+    "package_id": "com.megawin.tricardpoker"
+  },
+  {
+    "id": 409,
+    "app_name": "Ultimate Qublix Poker",
+    "package_id": "com.qublix.ultimatePoker"
+  },
+  {
+    "id": 410,
+    "app_name": "Poker Offline - Free Texas Holdem Poker Games",
+    "package_id": "com.redrocket.poker"
+  },
+  {
+    "id": 411,
+    "app_name": "TX Poker - Texas Holdem Poker",
+    "package_id": "air.com.murka.poker"
+  },
+  {
+    "id": 412,
+    "app_name": "Teen Patti Online Indian Poker Superstar Gold",
+    "package_id": "com.teenpattithreecardspoker"
+  },
+  {
+    "id": 413,
+    "app_name": "Texas Holdem Poker",
+    "package_id": "com.geaxgame.gamezone.texas"
+  },
+  {
+    "id": 414,
+    "app_name": "TEXAS HOLDEM POKER OFFLINE",
+    "package_id": "air.com.youdagames.gop2mobilefreemium"
+  },
+  {
+    "id": 415,
+    "app_name": "Poker Live! 3D Texas Hold'em",
+    "package_id": "com.octro.pokerlive"
+  },
+  {
+    "id": 416,
+    "app_name": "Poker Legends: Texas Holdem Poker",
+    "package_id": "com.dn.games.dtcpoker"
+  },
+  {
+    "id": 417,
+    "app_name": "Poker Night in America",
+    "package_id": "com.pokernight.pokerandroid"
+  },
+  {
+    "id": 418,
+    "app_name": "Scatter HoldEm Poker - Texas Holdem Online Poker",
+    "package_id": "com.murka.scatterholdem"
+  }
+]
