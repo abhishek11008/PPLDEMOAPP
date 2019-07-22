@@ -38,8 +38,6 @@ public class BankSeggregationActivity extends AppCompatActivity {
     ProgressDialog progressDialog;
     HashSet<String> bankNameHashset = new HashSet<String>();
     ArrayList<String> finalBankNamesFound = new ArrayList<>();
-    ArrayList<String> bankName = new ArrayList<>();
-    ArrayList<String> bankNameImages = new ArrayList<>();
     Activity mActivity;
     RecyclerView mRecyclerView;
     LinearLayoutManager linearLayoutManager;
@@ -54,6 +52,8 @@ public class BankSeggregationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_banks_seggregation);
         mActivity = BankSeggregationActivity.this;
         init();
+        bankNameHashset.clear();
+        finalBankNamesFound.clear();
     }
 
 
@@ -119,7 +119,6 @@ public class BankSeggregationActivity extends AppCompatActivity {
         parseTheJson();
 
         Log.d("abhi_sms_parsing", "Total_SMS_DATA_COUNT: " + Utils.smsArray.length());
-        //getDataForBankSeggregation();
         getAllTransactionalSMS();
         //Log.d("abhi_sms_parsing", "ALL_TXN_SMS_DATA Count: " + Utils.smsTransArray.length());
         //getCreditedTxnSMSData();
@@ -143,6 +142,7 @@ public class BankSeggregationActivity extends AppCompatActivity {
     }
 
     private void getAllTransactionalSMS() {
+        Log.d("abhi_json_check",Utils.smsArray.length()+"");
         if (Utils.smsArray.length() > 0) {
             JSONArray jsonArray = new JSONArray();
             for (int i = 0; i < Utils.senderId_keyword_array.length; i++) {
