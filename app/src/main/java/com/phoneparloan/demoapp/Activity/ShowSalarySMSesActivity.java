@@ -146,11 +146,9 @@ public class ShowSalarySMSesActivity extends AppCompatActivity {
 
 
         for(int i=0;i<smsSalaryList.length;i++){
-            if(bankName.equalsIgnoreCase(salarybankName)) {
                 SmsParsedBankData smsParsedBankData = new SmsParsedBankData();
                 smsParsedBankData.setSalarySMS(smsSalaryList[i]);
                 dataList.add(smsParsedBankData);
-            }
         }
 
         adapter = new AdapterSalarySMSList(mActivity, mActivity, dataList);

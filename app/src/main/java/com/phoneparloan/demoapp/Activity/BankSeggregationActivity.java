@@ -64,7 +64,7 @@ public class BankSeggregationActivity extends AppCompatActivity {
         mRecyclerView.setItemAnimator(new DefaultItemAnimator());
         mRecyclerView.setHasFixedSize(true);
 
-        int getrandomSelected = Utils.randSelected;
+        int getrandomSelected = 1;
 
         if (getrandomSelected == 1) {
             salarybankName = "UCO Bank";
@@ -107,6 +107,7 @@ public class BankSeggregationActivity extends AppCompatActivity {
             @Override
             public void onItemLongClick(View view, int position) {
                 //bottomSheetDialogLayout(dataList.get(position).getCredit_id(),position);
+
             }
         }));
 
